@@ -70,10 +70,10 @@
 Выбери язык программирования, на котором ты хочешь увидеть исходный код:
 
 - [C++](./is_match.cpp)
-- [Java](./IsMatch.java)
-- [C#](./IsMatch.cs)
-- [JavaScript](./isMatch.js)
-- [TypeScript](./isMatch.ts)
+- [Java](./is_match.java)
+- [C#](./is_match.cs)
+- [JavaScript](./is_match.js)
+- [TypeScript](./is_match.ts)
 - [PHP](./is_match.php)
 - [Dart](./is_match.dart)
 - [Go](./is_match.go)
